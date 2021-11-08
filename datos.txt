@@ -1,0 +1,5 @@
+Francisco Diaz Barbacovi - GAMMA
+default via 192.168.0.1 dev enp0s3 proto dhcp metric 100 
+169.254.0.0/16 dev enp0s3 scope link metric 1000 
+192.168.0.0/24 dev enp0s3 proto kernel scope link src 192.168.0.16 metric 100 
+lun 08 nov 2021 12:38:54 -03
