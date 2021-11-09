@@ -1,0 +1,23 @@
+Agustin Friadenrich
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.0.100  netmask 255.255.255.0  broadcast 192.168.0.255
+        inet6 2800:810:489:8c1:e29e:d4a0:5ee8:a545  prefixlen 64  scopeid 0x0<global>
+        inet6 fe80::b445:3488:b890:4c07  prefixlen 64  scopeid 0x20<link>
+        inet6 2800:810:489:8c1:13a1:378e:d42b:8b6e  prefixlen 64  scopeid 0x0<global>
+        inet6 2800:810:489:8c1::1002  prefixlen 128  scopeid 0x0<global>
+        ether 08:00:27:c6:95:fd  txqueuelen 1000  (Ethernet)
+        RX packets 4733  bytes 6061672 (6.0 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2986  bytes 266834 (266.8 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Bucle local)
+        RX packets 248  bytes 20707 (20.7 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 248  bytes 20707 (20.7 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+mar 09 nov 2021 17:05:53 -03
