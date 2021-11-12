@@ -11,6 +11,7 @@ a- En el master quedan los archivos:
    README.md
    beta.txt
    datos.txt
+   respuesta_I3_Equipo106.txt
 b- Si, beta puede ver todos los cambios y commits que se realizaron en las ramas
 c- git chekout main -> para volver a la rama principal
    git merge DiazBravacovi -> para traer todos los datos al main
