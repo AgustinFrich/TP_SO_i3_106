@@ -25,3 +25,12 @@ f-
   3. git checkout Branch_Name (Friadenrich)
   4. Modificaciones en beta.txt (echo, ifconfig, date)
   5. Realizar el add, commit y el push
+g - 
+git pull 
+git checkout Friadenrich
+echo "Leandro Murakoshi" >> beta.txt
+ifconfig >> beta.txt
+date +%T >> beta.txt
+git add beta.txt
+git commit -m "modifico beta.txt con mis datos"
+git push
