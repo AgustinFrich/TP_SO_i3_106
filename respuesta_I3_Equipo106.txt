@@ -1,0 +1,18 @@
+integrantes: 
+Alfa: Leandro Murakoshi
+Beta: Agustin Friadenrich
+Gamma: Francisco Dias Barbacovi
+
+Respuestas:
+a- En el master quedan los archivos:
+   CPUAlfa.txt
+   CPUBeta.txt
+   CPUGamma.txt
+   README.md
+   beta.txt
+   datos.txt
+b- Si, beta puede ver todos los cambios y commits que se realizaron en las ramas
+c- git chekout main -> para volver a la rama principal
+   git merge DiazBravacovi -> para traer todos los datos al main
+   git push origin main -> actualizo el repositorio
+
