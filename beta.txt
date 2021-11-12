@@ -46,3 +46,23 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
 
 jue 11 nov 2021 17:50:43 -03
  
+Leandro Murakoshi
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.0.15  netmask 255.255.255.0  broadcast 192.168.0.255
+        inet6 fe80::968e:8f0e:96ef:64ac  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:d8:3d:23  txqueuelen 1000  (Ethernet)
+        RX packets 109732  bytes 136836572 (136.8 MB)
+        RX errors 0  dropped 10  overruns 0  frame 0
+        TX packets 51935  bytes 6072641 (6.0 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Bucle local)
+        RX packets 2780  bytes 276243 (276.2 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2780  bytes 276243 (276.2 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+23:56:25
